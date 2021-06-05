@@ -1,0 +1,7 @@
+---
+name: WorldSystem
+author: xdolmation
+description: World System/Manager for PocketMine-MP 4
+version: 1.0.0
+main: WorldSystem\Main
+api: [4.0.0]
